@@ -116,5 +116,6 @@ const init = function () {
   pageView.addHandlerClick(controlPagination);
   newRecipeView.addHandlerUpload(controlNewRecipe);
   console.log('Welcome!');
+  console.log('Welcome!');
 };
 init();
